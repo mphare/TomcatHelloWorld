@@ -11,6 +11,6 @@
     <title>My HW App</title>
   </head>
   <body>
-  Hello, World! : Changed, again
+  Hello, World! : from JSP
   </body>
 </html>
